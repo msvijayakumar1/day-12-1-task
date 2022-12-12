@@ -1,0 +1,40 @@
+body{
+    background-color: black;
+}
+.box-part{
+    background-color: whitesmoke;
+    padding: 30px 5px;
+    margin: auto;
+}
+h3{
+    font-size: medium;
+}
+span{
+    color: red;
+}
+p{
+    font-family:'Times New Roman', Times, serif;
+    font-size: small;
+}
+h6{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.checked {
+    color: orange;
+    font-size: x-large;
+  }
+div[class="custom-control custom-radio"]{
+    text-align: center;
+}
+.box{
+    margin:auto ;
+    text-align: center;
+}
+.container{
+    margin: auto;
+}
+.row{
+    justify-content: center;
+}
+
